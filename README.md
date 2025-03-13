@@ -57,9 +57,13 @@
 
 ---
 
+### Words to Live By:
+<div align="center">
 
-### Quote:
 ![Einstein Quote](https://img.shields.io/badge/%E2%80%9CIn%20the%20middle%20of%20difficulty%20lies%20opportunity.%E2%80%9D%20--%20Albert%20Einstein-%231572B6?style=for-the-badge&logo=quotable&logoColor=white)
+
+</div>
+
 ---
 
 
