@@ -1,4 +1,9 @@
-<h1>std::cout << "Hello World!" , I'm Azab</h1>
+
+![ManPlusRobot](resources/DALL·E%202025-03-13%2004.58.06%20-%20A%20high-quality,%20elegant%20image%20of%20a%20handshake%20between%20a%20human%20hand%20and%20a%20robotic%20hand.%20The%20human%20hand%20has%20a%20professional,%20well-groomed%20appearance,%20whil.webp)
+
+
+
+<h1>std::cout << "Hello World!, I'm Azab" ;</h1>
 <p>A passionate  </p>
 
 
