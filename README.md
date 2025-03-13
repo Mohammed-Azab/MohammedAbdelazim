@@ -17,11 +17,17 @@
 ![ROS2](https://img.shields.io/badge/ros2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-%230073C7.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 
 
-## Version Control:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ## Operating Systems:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## Control Systems:
+
+![MPC](https://img.shields.io/badge/MPC-violet?style=for-the-badge) ![PID](https://img.shields.io/badge/PID-orange?style=for-the-badge) ![Lead Lag](https://img.shields.io/badge/Lead--Lag-green?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge)
+
+
+## Version Control:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## DevOps:
@@ -34,7 +40,6 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7F00.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7F00.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matrix&logoColor=white)
 
 
 # 📊 GitHub Stats:
@@ -58,4 +63,5 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-azab/)
+
 
