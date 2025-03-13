@@ -4,11 +4,14 @@
 
 
 <h1>std::cout << "Hello World!, I'm Azab" ;</h1>
-<p>I'm a mechtronics engineering student
-I'm Passionate about control systems, robotics, and software development. </p>
+<p>
 
+### **ME?**
 
-![Einstein Quote](https://img.shields.io/badge/%E2%80%9CIn%20the%20middle%20of%20difficulty%20lies%20opportunity.%E2%80%9D%20--%20Albert%20Einstein-%231572B6?style=for-the-badge&logo=quotable&logoColor=white)
+- 🌟 **I'm a Mechatronics engineering student.**  
+- 🤖 **I’m passionate about control systems, robotics, and software development.**  
+- 💼 **I'm open to work opportunities and collaborations to grow and contribute.**  
+- 🎮 **Fun fact: As a child, I used to take apart toys just to figure out how to make my own!**
 
 
 
@@ -43,19 +46,20 @@ I'm Passionate about control systems, robotics, and software development. </p>
 ## Design & Video:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7F00.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7F00.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 
+# 📊 **GitHub Stats**
 
-# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mohammed-azab&theme=github_dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-azab&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
-![](https://nirzak-streak-stats.vercel.app/?user=mohammed-azab&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-azab&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
 
-![](https://quotes-github-readme.vercel.app/api?quote=In%20the%20middle%20of%20difficulty%20lies%20opportunity.&author=Albert%20Einstein&type=horizontal&theme=tokyonight)
 
+### Quote:
+![Einstein Quote](https://img.shields.io/badge/%E2%80%9CIn%20the%20middle%20of%20difficulty%20lies%20opportunity.%E2%80%9D%20--%20Albert%20Einstein-%231572B6?style=for-the-badge&logo=quotable&logoColor=white)
 ---
 
 
