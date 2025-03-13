@@ -4,7 +4,8 @@
 
 
 <h1>std::cout << "Hello World!, I'm Azab" ;</h1>
-<p>A passionate  </p>
+<p>I'm a mechtronics engineering student
+I'm Passionate about control systems, robotics, and software development. </p>
 
 
 ![Einstein Quote](https://img.shields.io/badge/%E2%80%9CIn%20the%20middle%20of%20difficulty%20lies%20opportunity.%E2%80%9D%20--%20Albert%20Einstein-%231572B6?style=for-the-badge&logo=quotable&logoColor=white)
@@ -58,15 +59,10 @@
 ---
 
 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammed-azab/MohammedAbdelazim/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammed-azab/MohammedAbdelazim/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mohammed-azab/MohammedAbdelazim/output/github-snake.svg" />
 </picture>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-azab/)
 
 
