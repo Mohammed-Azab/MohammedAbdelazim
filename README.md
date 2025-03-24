@@ -9,8 +9,7 @@
 ### **ME?**
 
 - 🌟 **I'm a Mechatronics engineering student.**  
-- 🤖 **I’m passionate about control systems, robotics, and software development.**  
-- 💼 **I'm open to work opportunities and collaborations to grow and contribute.**  
+- 🤖 **I’m passionate about control systems, robotics, and software development.**    
 - 🎮 **Fun fact: As a child, I used to take apart toys just to figure out how to make my own!**
 
 
